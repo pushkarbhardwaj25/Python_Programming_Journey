@@ -1,0 +1,2 @@
+Letter = "Dear Pushkar,\n\tYou have secured 1st position in the recent\n\tDistrict Level \"Bharat Ko Jaano Quiz Competition\" on the behalf of\n\tManav Mangal School, Sector 11, Panchkula.\nCongratulations !\nYours Sincerely\nBharat Vikas Parishad\nPanchkula"
+print(Letter)
